@@ -1,0 +1,9 @@
+[submodule "reproschema"]
+	path = reproschema
+	url = https://github.com/ReproNim/reproschema.git
+[submodule "reproschema-ui"]
+	path = reproschema-ui
+	url = https://github.com/ReproNim/reproschema-ui.git
+[submodule "reproschema-demo-protocol"]
+	path = reproschema-demo-protocol
+	url = https://github.com/ReproNim/reproschema-demo-protocol.git
