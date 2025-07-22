@@ -7,3 +7,6 @@
 [submodule "reproschema-demo-protocol"]
 	path = reproschema-demo-protocol
 	url = https://github.com/ReproNim/reproschema-demo-protocol.git
+[submodule "reproschema-library"]
+	path = reproschema-library
+	url = https://github.com/ReproNim/reproschema-library.git
